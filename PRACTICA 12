@@ -25,11 +25,11 @@
          </div>
          <h3>Escúchalos</h3>
          <audio controls>
-             <source src="cancion.mp3" type="audio/mpeg">
-             Tu navegador no soporta audio.
+             <source src="cancion.mp3" type="https://audio.com/diego-sanchez-1/audio/frijolero-molotov">
+             
          
          <h3>Mira un video</h3>
-         <iframe width="560" height="315" src="https://www.youtube.com/embed/CODIGO_DEL_VIDEO" frameborder="0" allowfullscreen></iframe>
+         <iframe width="560" height="315" src="https://vimeo.com/434543671?fl=pl&fe=cm" frameborder="0" allowfullscreen></iframe>
          <h2 id="historia">Su historia</h2>
          <p>Aquí escribe el primer párrafo sobre cómo se formó la banda, quiénes son sus integrantes y dónde surgieron...</p>
          
