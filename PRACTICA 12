@@ -10,9 +10,15 @@
          <h1>Molotov</h1>
      </header>
      <nav>
+<<<<<<< HEAD
          <a href="#inicio">Inicio</a> |
          <a href="#historia">Historia</a> |
          <a href="#datos">Datos</a>
+=======
+         <a href="#inicio">La canción “Frijolero” de la banda mexicana Molotov fue lanzada en 2003 como parte de su álbum Dance and Dense Denso. Se convirtió en una de sus canciones más conocidas por su crítica al racismo y la discriminación contra los mexicanos en Estados Unidos</a> |
+         <a href="#historia">La canción surgió a partir de una experiencia de discriminación que vivió Randy Ebright, baterista de Molotov, junto con su familia. El grupo transformó esa experiencia en una canción que representa los conflictos entre México y Estados Unidos, especialmente por la migración y los prejuicios</a> |
+         <a href="#datos">su primer album de la banda fue ¿donde jugaran las niñas?</a>
+>>>>>>> 628f205e6991e67b240cbf13159cbfa371c2d4e5
      </nav>
      <article>
          <h2 id="inicio">Bienvenidos</h2>
@@ -40,7 +46,7 @@
              <li>Dato curioso 3</li>
              <li>Dato curioso 4</li>
          </ul>
-         <p>Conoce más en su <a href="https://www.ejemplo.com" target="_blank">página oficial</a></p>
+         <p>Conoce más en su <a href="https://www.facebook.com/molotovoficial/.com" target="_blank">página oficial</a></p>
      </article>
      <footer>
          <p>Hecho por: Nombre de los integrantes del equipo</p>
