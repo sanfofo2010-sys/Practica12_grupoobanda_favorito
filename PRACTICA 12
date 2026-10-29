@@ -24,9 +24,9 @@
          <h2 id="inicio">Bienvenidos</h2>
          
          <div class="imagenes">
-             <img src="https://www.rockaxis.com/colombia/disco/39855/molotov/" alt="Imagen de la banda">
-             <img src="https://mx.pinterest.com/mrsid113/molotov/" alt="Imagen de la banda">
-             <img src="https://www.facebook.com/SomosRadiales/posts/la-portada-del-disco-d%C3%B3nde-jugar%C3%A1n-las-ni%C3%B1as-de-molotov-es-una-de-las-m%C3%A1s-ic%C3%B3nic/1025079992954199/" alt="Imagen de la banda">
+             <img src="images (3).jpeg"alt="Imagen de la banda" width="250px"height="180px">
+             <img src="images (4).jpeg" alt="Imagen de la banda"width="250px" height="180px">
+             <img src="images (5).jpeg" alt="Imagen de la banda"width="250px" height="180px">
          </div>
          <h3>Escúchalos</h3>
          <audio controls>
