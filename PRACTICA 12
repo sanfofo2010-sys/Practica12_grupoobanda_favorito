@@ -1,60 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-     <meta charset="UTF-8">
-     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>Mi Banda Favorita</title>
-     <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 </head>
 <body>
          <header>
-         <h1>molotov</h1>
+         <h1>Molotov</h1>
      </header>
      <nav>
-         <a href="#inicio">La canción “Frijolero” de la banda mexicana Molotov fue lanzada en 2003 como parte de su álbum Dance and Dense Denso. Se convirtió en una de sus canciones más conocidas por su crítica al racismo y la discriminación contra los mexicanos en Estados Unidos</a> |
-         <a href="#historia">La canción surgió a partir de una experiencia de discriminación que vivió Randy Ebright, baterista de Molotov, junto con su familia. El grupo transformó esa experiencia en una canción que representa los conflictos entre México y Estados Unidos, especialmente por la migración y los prejuicios</a> |
-         <a href="#datos"></a>
+         <a href="#inicio">Inicio</a> |
+         <a href="#historia">Historia</a> |
+         <a href="#datos">Datos</a>
      </nav>
      <article>
          <h2 id="inicio">Bienvenidos</h2>
          
          <div class="imagenes">
-             <img src="imagen1.jpg" alt="Imagen de la banda">
-             <img src="imagen2.jpg" alt="Imagen de la banda">
-             <img src="imagen3.jpg" alt="Imagen de la banda">
+             <img src="https://www.rockaxis.com/colombia/disco/39855/molotov/" alt="Imagen de la banda">
+             <img src="https://mx.pinterest.com/mrsid113/molotov/" alt="Imagen de la banda">
+             <img src="https://www.facebook.com/SomosRadiales/posts/la-portada-del-disco-d%C3%B3nde-jugar%C3%A1n-las-ni%C3%B1as-de-molotov-es-una-de-las-m%C3%A1s-ic%C3%B3nic/1025079992954199/" alt="Imagen de la banda">
          </div>
          <h3>Escúchalos</h3>
          <audio controls>
-             <source src="https://vimeo.com/434543671?fl=pl&fe=cm" type="https://audio.com/diego-sanchez-1/audio/frijolero-molotov">
-             
+             <source src="cancion.mp3" type="audio/mpeg">
+            
          
          <h3>Mira un video</h3>
-         <iframe width="560" height="315" src="https://vimeo.com/434543671?fl=pl&fe=cm" frameborder="0" allowfullscreen></iframe>
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/CODIGO_DEL_VIDEO" frameborder="0" allowfullscreen></iframe>
          <h2 id="historia">Su historia</h2>
-         <p>
-La banda mexicana Molotov se formó en septiembre de 1995. Comenzó cuando Micky Huidobro y Tito Fuentes, dos músicos que querían crear un proyecto propio, se unieron a otros integrantes para formar una agrupación de rock con un estilo diferente
-
-Molotov surgió en la Ciudad de México, México. Al principio tocaba en pequeños clubes y escenarios locales, hasta que comenzó a presentarse como telonera de bandas reconocidas y llamó la atención de la industria musica
-Micky Huidobro
-Tito Fuentes
-Paco Ayala
-Randy Ebright
-</p>
+         <p>Aquí escribe el primer párrafo sobre cómo se formó la banda, quiénes son sus integrantes y dónde surgieron...</p>
          
-         <p>
-Lanzaron su primer álbum, que llamó la atención por sus letras provocadoras y su crítica social. Incluye canciones como “Gimme Tha Power” y “Voto Latino”.
-
-Molotov es una banda mexicana que surgió en la Ciudad de México en 1995. Se caracteriza por combinar rock, rap y metal, además de utilizar letras irreverentes para hablar de política, discriminación y problemas sociales. Gracias a su estilo propio y a canciones como “Gimme Tha Power”, “Voto Latino” y “Frijolero”, se convirtió en una agrupación reconocida del rock en español.
-</p>
-         <h2 id="datos">se burlan de los politicos</h2>
+         <p>Aquí escribe el segundo párrafo sobre su trayectoria, sus canciones más famosas y por qué te gustan tanto...</p>
+         <h2 id="datos">Datos curiosos</h2>
          <ul>
-             <li>Su video se burla de los políticos</li>
-             <li>El videoclip presenta caricaturas de George W. Bush y Vicente Fox, expresando críticas a las decisiones políticas y a los problemas fronterizos</li>
+             <li>Dato curioso 1</li>
+             <li>Dato curioso 2</li>
+             <li>Dato curioso 3</li>
+             <li>Dato curioso 4</li>
          </ul>
          <p>Conoce más en su <a href="https://www.ejemplo.com" target="_blank">página oficial</a></p>
      </article>
      <footer>
-         <p>Hecho por: dorian y santiago </p>
+         <p>Hecho por: Nombre de los integrantes del equipo</p>
      </footer>
  </body>
  </html>
